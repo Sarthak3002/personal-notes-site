@@ -9,3 +9,11 @@ body{
 h1{
     color: #5c67f2;
 }
+
+body.dark{
+    background-color: #1e1e1e;
+    color:#ffffff;
+}
+.dark h1{
+    color:#a2d2ff;
+}
